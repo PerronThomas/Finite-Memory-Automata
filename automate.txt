@@ -1,0 +1,34 @@
+/Taille Memoire:
+13;
+/Memoire Initial:
+#############;
+/Etat:
+Etat0,true,false,-1;
+Etat1,false,false,-1;
+Etat2,false,false,-1;
+Etat3,false,false,-1;
+Etat4,false,false,-1;
+Etat5,false,false,-1;
+Etat6,false,false,-1;
+Etat7,false,false,-1;
+Etat8,false,false,-1;
+Etat9,false,false,-1;
+Etat10,false,false,-1;
+Etat11,false,false,-1;
+Etat12,false,false,-1;
+Etat13,false,true,-1;
+/Transition:
+Transition1,Etat1,Etat2,1;
+Transition2,Etat0,Etat1,-1;
+Transition3,Etat4,Etat5,12;
+Transition4,Etat3,Etat4,-1;
+Transition5,Etat5,Etat6,-1;
+Transition6,Etat8,Etat9,13;
+Transition7,Etat7,Etat8,-1;
+Transition8,Etat9,Etat10,-1;
+Transition9,Etat11,Etat7,-1;
+Transition10,Etat11,Etat3,-1;
+Transition11,Etat2,Etat11,-1;
+Transition12,Etat6,Etat12,-1;
+Transition13,Etat10,Etat12,-1;
+Transition14,Etat12,Etat13,-1;
